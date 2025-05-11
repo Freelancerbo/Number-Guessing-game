@@ -1,0 +1,15 @@
+/workspaces/Number-Guessing-game/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame
+/workspaces/Number-Guessing-game/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.deps.json
+/workspaces/Number-Guessing-game/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.runtimeconfig.json
+/workspaces/Number-Guessing-game/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.dll
+/workspaces/Number-Guessing-game/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.pdb
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.AssemblyInfoInputs.cache
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.AssemblyInfo.cs
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.sourcelink.json
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.dll
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/refint/NumberGuessingGame.dll
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.pdb
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.genruntimeconfig.cache
+/workspaces/Number-Guessing-game/NumberGuessingGame/obj/Debug/net8.0/ref/NumberGuessingGame.dll
